@@ -5,7 +5,6 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 - [Central Washington University (CWU)](http://www.cwu.edu/accessibility-studies/)
   Program dedicated to increasing awareness for accessibility issues
 - [Georgia Institute of Technology: Information and Communication Technology (ICT) Accessibility **Verified Certificate**](https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x) 
-- [Media Access Australia (W3C Member): **Professional Certificate** in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)
 - [Mohawk College: **Ontario College Graduate Certificate** in Accessible Media Production](https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390)
 - [University of Illinois DRES IT Accessibility Badging Program](http://disability.illinois.edu/academic-support/accessible-it-group/badging)
 - [University of Illinois Information Accessibility Design and Policy (IADP): **Certificate Program**](http://iadp.ahs.illinois.edu)
