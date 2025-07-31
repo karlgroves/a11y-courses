@@ -32,6 +32,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 - [A11y Collective](https://a11y-collective.com/) - a new e-learning platform for people who want to dive deep into digital accessibility. 
 - [LinkedIN Learning: Accessibility for Web Design with Derek Featherstone](https://www.linkedin.com/learning/accessibility-for-web-design/welcome) - Free with a LinkedIn Learning membership.
 - [LinkedIN Learning: Auditing Design Systems for Accessibility](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility) - Free with a LinkedIn Learning membership.
+- [Learning Accessibiltity](https://www.learningaccessibility.com) - a new platform offering a variety of courses on Web Accessibility
 
 
 ## Conferences & Events
