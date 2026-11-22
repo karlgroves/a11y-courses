@@ -57,7 +57,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 - [Google's Udacity Accessibility course (text version)](https://developers.google.com/web/fundamentals/accessibility/)
 - [Google's Udacity Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891)
 - [Microsoft's Training teachers to author accessible content ](https://education.microsoft.com/courses-and-resources/courses/training-teachers-to-author-accessible-content)
-- [Microsoft's Accessibility fundamentals]()https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/
+- [Microsoft's Accessibility fundamentals](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamentals/)
 - [Professional Web #A11y Auditing Made Easy](https://de.ryerson.ca/wa/)
 - [Start Building Accessible Web Applications Today, by Marcy Sutton](https://egghead.io/courses/start-building-accessible-web-applications-today)
 - [Ryerson University: Introduction to Web Accessibility](https://de.ryerson.ca/wa/introduction/) - Start date TBD 
